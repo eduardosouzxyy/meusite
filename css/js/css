@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Página</title>
+    <style>
+        body {
+            background-color: "red"
+        }
+        p {
+            color: red;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <p>Este é um texto vermelho com tamanho de 18px.</p>
+</body>
+</html>
